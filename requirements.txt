@@ -11,3 +11,4 @@ langchain-groq
 kaggle
 kagglehub
 pandas
+playwright
