@@ -1,1 +1,13 @@
 fastapi[all]
+pyppeteer
+pinecone
+fastapi
+python-dotenv
+python-multipart
+requests
+uvicorn
+langchain
+langchain-groq
+kaggle
+kagglehub
+pandas
